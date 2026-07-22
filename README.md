@@ -2,6 +2,8 @@
 
 A complete **Hotel Management System Network** designed and implemented in **Cisco Packet Tracer**. This project simulates a real-world hotel network by connecting multiple departments through a secure and efficient infrastructure.
 
+note: Click on file then click on View raw for project file
+
 ## Features
 
 * 🏨 7 Department-based VLANs (Guest, Office, Reception, Staff, Management, Security, CCTV)
